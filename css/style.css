@@ -1,0 +1,22 @@
+body
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.pager li .active_link
+{
+	background: #C3C1C0 !important;
+	color: white;
+}
+
+.pager li .not_active_link
+{
+	color: black;
+}
+
+.pager li
+{
+	padding: 2px;
+}
